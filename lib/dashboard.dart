@@ -53,12 +53,12 @@ class Dashboard extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: const <Widget>[
                       Icon(
-                        Icons.home,
+                        Icons.live_tv,
                         size: 70,
                         color: Colors.blueAccent,
                       ),
                       Text(
-                        'Home',
+                        'TV',
                         style: TextStyle(fontSize: 17),
                       )
                     ],
@@ -75,12 +75,12 @@ class Dashboard extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: const <Widget>[
                       Icon(
-                        Icons.home,
+                        Icons.light,
                         size: 70,
                         color: Colors.blueAccent,
                       ),
                       Text(
-                        'Home',
+                        'Light',
                         style: TextStyle(fontSize: 17),
                       )
                     ],
@@ -97,12 +97,12 @@ class Dashboard extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: const <Widget>[
                       Icon(
-                        Icons.home,
+                        Icons.lightbulb_outline,
                         size: 70,
                         color: Colors.blueAccent,
                       ),
                       Text(
-                        'Home',
+                        'Lamp',
                         style: TextStyle(fontSize: 17),
                       )
                     ],
@@ -119,12 +119,12 @@ class Dashboard extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: const <Widget>[
                       Icon(
-                        Icons.home,
+                        Icons.air,
                         size: 70,
                         color: Colors.blueAccent,
                       ),
                       Text(
-                        'Home',
+                        'Air',
                         style: TextStyle(fontSize: 17),
                       )
                     ],
@@ -141,12 +141,12 @@ class Dashboard extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: const <Widget>[
                       Icon(
-                        Icons.home,
+                        Icons.alarm,
                         size: 70,
                         color: Colors.blueAccent,
                       ),
                       Text(
-                        'Home',
+                        'Alarm',
                         style: TextStyle(fontSize: 17),
                       )
                     ],
